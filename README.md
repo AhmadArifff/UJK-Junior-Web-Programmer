@@ -1,5 +1,5 @@
 # TODOLIST
-
+![Tampilan WEB](ScreenShot/Tampilan%20WEB.png)
 ## Deskripsi
 Aplikasi TODOLIST adalah aplikasi web sederhana untuk mencatat, mengelola, dan menyelesaikan daftar tugas harian. Dibangun menggunakan PHP tanpa database serta dijalankan pada XAMPP.
 
@@ -18,15 +18,9 @@ Aplikasi TODOLIST adalah aplikasi web sederhana untuk mencatat, mengelola, dan m
     ├── index.php
     ├── assets/
     │   ├── css/
+    │   │   └── style.css
     │   └── js/
-    ├── includes/
-    │   ├── header.php
-    │   └── footer.php
-    └── todo/
-        ├── add.php
-        ├── edit.php
-        ├── delete.php
-        └── list.php
+    │       └── script.js
 ```
 ## Cara Menjalankan
 1. Pastikan XAMPP sudah terinstall dan aktifkan Apache.
@@ -35,5 +29,4 @@ Aplikasi TODOLIST adalah aplikasi web sederhana untuk mencatat, mengelola, dan m
 4. Mulai gunakan aplikasi TODOLIST.
 
 ## Data Diri
-- Nama: Ahmad Arif
-- NPM: 40621190002
+- [Ahmad Arif][https://github.com/AhmadArifff/UJK-Junior-Web-Programmer]
